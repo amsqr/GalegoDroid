@@ -1,6 +1,8 @@
-GalegoDroid is simple online translator for the Galician language. It uses Apertium (www.apertium.org) web service.
+ GalegoDroid is a simple online translator for the Galician language. 
+ It uses the Apertium (www.apertium.org) web service.
 
-GalegoDroid es un traductor de Gallego sencillo que emplea Apertium (www.apertium.org) como motor de traducción.
+ GalegoDroid es un traductor de Gallego sencillo que emplea Apertium 
+ (www.apertium.org) como motor de traducciÃ³n.
 
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
